@@ -17,4 +17,4 @@ Note that inversion option is provided, for some cases like when decoder can't r
 [^2]: https://forum.audacityteam.org/t/schmitt-trigger-possible/43953/9
 [^3]: https://github.com/begoon/rk86-tape/blob/main/docs/index.html
 
-_Keywords: Faust, dsp, Schmitt Trigger, comparator, computer tape data recovery, old computer magnetic tapes, computer cassette dump, tape head align._
+_Keywords: Faust, dsp, Schmitt Trigger, comparator, computer tape data recovery, old computer magnetic tapes, computer cassette dump, tape head align, Schmitt Trigger lv2, Schmitt Trigger audio plugin._
